@@ -1,0 +1,2 @@
+# Cannada_Income_per_Capita-Prediction
+Cannada_Income_per_Capita Prediction
